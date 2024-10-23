@@ -13,7 +13,7 @@ Sub PopulateArray()
    extractColumn = "I"
    sheetnameSource = "source"
    generatedSheetPrefix = "ws"
-   filenamePrefix = "JANBI -"
+   filenamePrefix = "ws -"
    'config end
    
    columnNo = Range(extractColumn & 1).Column
